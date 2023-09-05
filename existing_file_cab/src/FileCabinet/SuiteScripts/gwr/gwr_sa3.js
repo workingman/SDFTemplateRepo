@@ -11,6 +11,7 @@ define(['N/log'],
       * change 1
       */
     (log) => {
+        // test
         /**
          * Defines the Suitelet script trigger point.
          * @param {Object} scriptContext
